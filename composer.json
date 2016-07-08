@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "name": "Windmagez/module-foobar",
     "description": "Test module for Magento 2",
@@ -11,18 +10,4 @@
             ]
         ]
     }
-=======
-{
-    "name": "Windmagez/module-foobar",
-    "description": "Test module for Magento 2",
-    "type": "magento2-module",
-    "extra": {
-        "map": [
-            [
-                "*",
-                "Windmagez/FooBar"
-            ]
-        ]
-    }
->>>>>>> origin/master
 }
